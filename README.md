@@ -1,5 +1,5 @@
-<!-- wp:image {"id":1150,"width":"122px","height":"auto","sizeSlug":"medium","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-medium is-resized"><img src="https://hfz.pw/wp-content/uploads/2023/03/5d841f8c1f033005-300x300.png" alt="" class="wp-image-1150" style="width:122px;height:auto"/></figure>
+<!-- wp:image {"id":1898,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://hfz.pw/wp-content/uploads/2025/03/20250324004430231-未命名-份-份-份-份-份-份-份-份-份-10.png" alt="" class="wp-image-1898"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
