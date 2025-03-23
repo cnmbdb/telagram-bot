@@ -59,7 +59,7 @@
 <!-- /wp:image -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th><img class="wp-image-1895" style="width: 900px;" src="https://hfz.pw/wp-content/uploads/2024/04/20250323192040358-Logo-5-remix-1.gif" alt=""></th></tr></thead></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th></th><th><img class="wp-image-1895" style="width: 300px;" src="https://hfz.pw/wp-content/uploads/2024/04/20250323192040358-Logo-5-remix-1.gif" alt=""></th><th></th></tr></thead></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:table -->
