@@ -63,7 +63,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><img class="wp-image-1901" style="width: 300px;" src="https://hfz.pw/wp-content/uploads/2025/03/20250324010542405-20240415_1713191743.webp" alt=""><br><br><br></td><td></td><td></td></tr><tr><td><br><br><br><br></td><td></td><td></td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center"><img class="wp-image-1901" style="width: 300px;" src="https://hfz.pw/wp-content/uploads/2025/03/20250324010542405-20240415_1713191743.webp" alt=""><br><br><br><strong><qc style="color:#333;background:undefined"><code>点击查看</code></qc></strong><br></td><td><img class="wp-image-1903" style="width: 300px;" src="https://hfz.pw/wp-content/uploads/2025/03/20250324011119345-未命名-份-份-份-份-份-份-份-份-份-份-9.png" alt=""><br><br><br></td><td><img class="wp-image-1904" style="width: 300px;" src="https://hfz.pw/wp-content/uploads/2025/03/20250324011451488-未命名-份-份-份-份-份-份-份-份-4.png" alt=""><br><br><br></td></tr><tr><td class="has-text-align-center" data-align="center"><br><br><br><br></td><td></td><td></td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:list -->
